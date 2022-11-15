@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloJenkins", "HelloJenkins\HelloJenkins.csproj", "{D5F56FD2-0553-4AAD-BF73-FA88BBD5E6FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{92801F24-F745-42FA-BB66-992E9D56C530}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D5F56FD2-0553-4AAD-BF73-FA88BBD5E6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5F56FD2-0553-4AAD-BF73-FA88BBD5E6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5F56FD2-0553-4AAD-BF73-FA88BBD5E6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92801F24-F745-42FA-BB66-992E9D56C530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92801F24-F745-42FA-BB66-992E9D56C530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92801F24-F745-42FA-BB66-992E9D56C530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92801F24-F745-42FA-BB66-992E9D56C530}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
